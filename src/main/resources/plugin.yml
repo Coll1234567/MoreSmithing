@@ -1,0 +1,9 @@
+name: MoreSmithing
+version: @version@
+main: me.jishuna.moresmithing.MoreSmithing
+authors: [Jishuna]
+api-version: 1.17
+
+commands:
+  giveitem:
+    description: 'Test'

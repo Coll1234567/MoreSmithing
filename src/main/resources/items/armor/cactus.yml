@@ -1,0 +1,28 @@
+thorns-chance: 25
+damage-percentage: 25
+
+items:
+  helmet:
+    name: '&2&lCactus Helmet'
+    color: '0,255,0'
+    durability: 55
+    base: LEATHER_HELMET
+    addition: CACTUS
+  chestplate:
+    name: '&2&lCactus Chestplate'
+    color: '0,255,0'
+    durability: 80
+    base: LEATHER_CHESTPLATE
+    addition: CACTUS
+  leggings:
+    name: '&2&lCactus Leggings'
+    color: '0,255,0'
+    durability: 75
+    base: LEATHER_LEGGINGS
+    addition: CACTUS
+  boots:
+    name: '&2&lCactus Boots'
+    color: '0,255,0'
+    durability: 65
+    base: LEATHER_BOOTS
+    addition: CACTUS
